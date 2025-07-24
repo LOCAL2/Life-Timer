@@ -100,7 +100,7 @@ export default function Home() {
               
               <div className="bg-gradient-to-r from-green-100 to-emerald-100 rounded-2xl p-6 transform transition-all hover:scale-105">
                 <p className="text-emerald-600 text-xl font-semibold">
-                  🎂 อีก {nextMilestone} วันจะถึงวันเกิดของคุณ ซึ่งตรงกับวัน{nextBirthdayDay}
+                  🎂 อีก {nextMilestone} วันจะถึงวันเกิดของคุณ ซึ่งตรงกับ{nextBirthdayDay}
                 </p>
               </div>
             </div>
